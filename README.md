@@ -5,3 +5,5 @@
 **Nee het valt goed mee.**
 
 Had je al ervaring in het coderen? (antwoord doorstreept) 
+
+~~Ja, Patrick hier~~
