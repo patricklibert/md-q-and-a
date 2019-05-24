@@ -13,3 +13,7 @@ Had je al ervaring in het coderen? (antwoord doorstreept)
 
 
 Antwoord hier iets met een `codeblock`
+
+`Neen`
+
+Doe je deze oefening graag? Antwoord in italic.
