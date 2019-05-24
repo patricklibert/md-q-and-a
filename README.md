@@ -7,3 +7,9 @@
 Had je al ervaring in het coderen? (antwoord doorstreept) 
 
 ~~Ja, Patrick hier~~
+
+
+
+
+
+Antwoord hier iets met een `codeblock`
