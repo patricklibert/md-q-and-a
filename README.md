@@ -17,3 +17,5 @@ Antwoord hier iets met een `codeblock`
 `Neen`
 
 Doe je deze oefening graag? Antwoord in italic.
+
+*Ja*, Patrick hier.
